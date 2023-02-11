@@ -1,0 +1,6 @@
+[submodule "vps-website"]
+	path = vps-website
+	url = https://github.com/ash-entwisle/vps-website.git
+[submodule "vps-api"]
+	path = vps-api
+	url = https://github.com/ash-entwisle/vps-api.git
